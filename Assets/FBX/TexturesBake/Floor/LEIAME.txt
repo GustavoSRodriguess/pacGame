@@ -1,0 +1,5 @@
+Diferente das outras texturas que sao 2048x2048px, esta, do chao, e 4096x4096px pq o chao e gigante pq alguem ai fez um unico chao pro mapa inteiro
+obs: dava pra fazer a textura do chao com tiling mas no momento e mais facil manter com uma textura unica
+se vcs quiserem usar tiling me avisa que eu faco se precisar
+
+EDIT: MESMO EM 4096 FICOU PIXELADO PQ O CHAO E MUITOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO GRANDE OUTRA HORA EU ARRUMO

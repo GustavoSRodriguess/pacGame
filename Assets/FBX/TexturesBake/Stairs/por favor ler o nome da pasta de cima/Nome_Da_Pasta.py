@@ -1,0 +1,1 @@
+print("nao fiz bake nas escadas pq da BASTANTE trabalho fazer bake e nao sei se as escadas vao estar no jogo ja que so vai ter 1 andar mas se precisar me avisa que eu faco")
